@@ -24,7 +24,7 @@ from typing import Optional
 
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7694580654:AAGybgZxxXORiefcNXsVCZzYuLwuPdskjCc')
+bot = telebot.TeleBot('7761051648:AAH4ZA82PvNybpq-H1ZlMnLR03cE-vyEYxs')
 
 # Insert your admin id here
 admin_id = ["6205215318"]
